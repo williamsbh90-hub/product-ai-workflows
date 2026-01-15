@@ -7,7 +7,7 @@ A complete, production-ready GitHub repository for sharing your AI Product Devel
 ## Directory Structure
 
 ```
-public-skills/
+product-ai-workflows/
 ├── README.md                           ⭐ Main repository overview
 ├── LICENSE                             📄 MIT License
 ├── CONTRIBUTING.md                     🤝 Contribution guidelines
