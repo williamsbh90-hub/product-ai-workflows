@@ -181,7 +181,7 @@ Every reader finds the right level of detail for their needs.
 
 1. **Go to GitHub**: https://github.com/new
 2. **Create repository**:
-   - Name: `ai-product-development-skills`
+   - Name: `product-ai-workflows`
    - Public
    - ✅ Add README (we'll replace)
    - ✅ MIT License
@@ -210,7 +210,7 @@ See **GITHUB_SETUP.md** for detailed step-by-step guide with:
 
 Once your repository is public at:
 ```
-https://github.com/YOUR_USERNAME/ai-product-development-skills
+https://github.com/williamsbh90-hub/product-ai-workflows
 ```
 
 People can:
@@ -235,7 +235,7 @@ Prescriptive frameworks for writing AI-ready PRDs and User Stories.
 No more vague requirements. Objective quality scoring.
 
 Free & MIT licensed
-GitHub: [your-link]
+GitHub: Your Link
 
 #ProductManagement #AI
 ```
@@ -251,7 +251,7 @@ GitHub: [your-link]
 ### Write a Blog Post
 Document your journey:
 - Why you created these frameworks
-- Problems they solve at SamCart
+- Problems they solve at your company
 - Results you've seen
 - How others can use them
 
